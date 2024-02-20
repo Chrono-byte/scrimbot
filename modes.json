@@ -1,0 +1,41 @@
+{
+  "modes": {
+    "control": {
+        "antarctic": {},
+        "busan": {},
+        "ilios": {},
+        "lijiang": {},
+        "nepal": {},
+        "oasis": {},
+        "samoa": {}
+    },
+    "hybrid": {
+        "blizzard": {},
+        "eichenwalde": {},
+        "hollywood": {},
+        "kings": {},
+        "midtown": {},
+        "numbani": {},
+        "paraiso": {}
+    },
+    "flashpoint": {
+        "newjunkcity": {},
+        "suravasa": {}
+    },
+    "push": {
+        "colosseo": {},
+        "esperanca": {},
+        "toronto": {}
+    },
+    "escort": {
+        "circuit": {},
+        "dorado": {},
+        "havana": {},
+        "junkertown": {},
+        "rialto": {},
+        "route": {},
+        "shambali": {},
+        "watchpoint": {}
+    }
+  }
+}
