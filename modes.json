@@ -1,5 +1,4 @@
 {
-  "modes": {
     "control": {
         "antarctic": {},
         "busan": {},
@@ -37,5 +36,4 @@
         "shambali": {},
         "watchpoint": {}
     }
-  }
 }
