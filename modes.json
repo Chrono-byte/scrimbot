@@ -1,39 +1,41 @@
 {
-    "control": {
-        "antarctic": {},
-        "busan": {},
-        "ilios": {},
-        "lijiang": {},
-        "nepal": {},
-        "oasis": {},
-        "samoa": {}
-    },
-    "hybrid": {
-        "blizzard": {},
-        "eichenwalde": {},
-        "hollywood": {},
-        "kings": {},
-        "midtown": {},
-        "numbani": {},
-        "paraiso": {}
-    },
-    "flashpoint": {
-        "newjunkcity": {},
-        "suravasa": {}
-    },
-    "push": {
-        "colosseo": {},
-        "esperanca": {},
-        "toronto": {}
-    },
-    "escort": {
-        "circuit": {},
-        "dorado": {},
-        "havana": {},
-        "junkertown": {},
-        "rialto": {},
-        "route": {},
-        "shambali": {},
-        "watchpoint": {}
+    "modes": {
+        "control": {
+            "antarctic": "Antarctica",
+            "busan": "Busan",
+            "ilios": "Ilios",
+            "lijiang": "Lijiang Tower",
+            "nepal": "Nepal",
+            "oasis": "Oasis",
+            "samoa": "Samoa"
+        },
+        "hybrid": {
+            "blizzard": "Blizzard World",
+            "eichenwalde": "Eichenwalde",
+            "hollywood": "Hollywood",
+            "kings": "King's Row",
+            "midtown": "Midtown",
+            "numbani": "Numbani",
+            "paraiso": "Paraiso"
+        },
+        "flashpoint": {
+            "newjunkcity": "New Junk City",
+            "suravasa": "Suravasa"
+        },
+        "push": {
+            "colosseo": "Colosseo",
+            "esperanca": "Esperança",
+            "toronto": "Toronto"
+        },
+        "escort": {
+            "circuit": "Circuit Royale",
+            "dorado": "Dorado",
+            "havana": "Havana",
+            "junkertown": "Junkertown",
+            "rialto": "Rialto",
+            "route": "Route 66",
+            "shambali": "Shambali Monastery",
+            "watchpoint": "Watchpoint: Gibraltar"
+        }
     }
 }

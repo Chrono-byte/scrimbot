@@ -69,11 +69,11 @@ const TextChannel: Gamerule<string> = {
 };
 
 const gamerules = {
-  voting_channel: {
-    title: "Voting Channel",
-    description: "The channel the bot listens for map votes in",
-    type: TextChannel,
-    field: "votingChannel",
+  vote_duration: {
+    title: "Vote Duration",
+    description: "The duration of the map vote in ms",
+    type: Integer,
+    field: "voteDuration",
   },
 } as const;
 
