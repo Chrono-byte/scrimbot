@@ -142,7 +142,7 @@ commands.push({
       });
 
       await i.update({
-        content: "Vote for the next map!",
+        content: "",
         embeds: [embed],
         components: [row],
       });
